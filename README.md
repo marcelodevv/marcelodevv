@@ -45,4 +45,4 @@ I'm a native Portuguese speaker from Brazil, but I'm also comfortable communicat
 
 [github]: https://github.com/marcelodevv
 [instagram]: https://instagram.com/marcelodevv
-[linkedin]: https://www.linkedin.com/in/marcelo-souza-223151232/
+[linkedin]: https://www.linkedin.com/in/marcelodevv
