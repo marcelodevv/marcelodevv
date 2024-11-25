@@ -6,7 +6,6 @@ I'm a Software Engineering student who's all about building cool solutions and i
 
 ## 🚀 My Jam
 
-- **Backend Integration:** I use Firebase to handle auth, real-time databases, and push notifications, making sure my apps are dynamic and scalable.
 - **Web Dev:** Got solid chops in HTML5, CSS3, and JavaScript, crafting responsive and interactive web interfaces.
 - **React:** Experienced in building web apps with React, creating dynamic UIs and reusable components.
 - **Version Control:** Git is my go-to for versioning, team collaboration, and project management.
